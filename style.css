@@ -11,6 +11,8 @@
     width: 100%;
     min-height: 100vh;
     background-color: rgba(0, 0, 0, 0.874);
+    background-image: url(./img/pexels-timea-kadar-2215609.jpg);
+    background-size:contain;
     padding: 0;
     margin: 0;
     display: flex;
@@ -51,7 +53,7 @@
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
-    background-color: rgba(0, 0, 0, 0.527);
+    background-color: rgba(0, 0, 0, 0.934);
     width: 100%;
     padding: 1.3rem 0;
     border: 1px solid rgb(0, 0, 0);
@@ -78,19 +80,19 @@
   }
   
   .instagram-login {
-    background-color: rgb(137, 137, 137);
+    background-color: rgb(124, 124, 124);
     color: rgb(255, 255, 255);
     border-radius: 4px;
     padding: 8px;
   }
   
   .instagram-logout {
-    color: rgb(137, 137, 137);
+    color: rgb(255, 255, 255);
     margin-top: 1rem;
   }
   
   .not-account {
-    color: rgb(160, 160, 160);
+    color: rgb(255, 255, 255);
   }
   
   .link-blue {
@@ -105,6 +107,7 @@
     align-items: center;
     width: 100%;
     padding: 1.3rem 0;
+    color: rgb(255, 255, 255);
   }
   
   .download {
